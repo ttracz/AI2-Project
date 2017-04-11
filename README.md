@@ -26,10 +26,12 @@ Aplikacja do predykcji i wizualizacji zachowania klientów.
 Głównym założeniem projektu **Predict Vision** jest stworzenie aplikacji internetowej umożliwiającej analizowanie, a także przewidywanie zachowania klientów. Aplikacja powinna wyświetlać wykresy z zakresem zachowania osoby, śledzenia jej ruchu.
 
 
-# Funkcjonalności
+# Funkcjonalności i wykorzystana technologia
 
 
 Zasadniczą funkcją aplikacji jest wyświetlenie wykresów przedstawiających zachowanie klienta na podstawie zapisów w bazie danych. Dodatkowo na podstawie tych danych przedstawić informacje o przewidywanym zachowaniu klienta, czyli wykresy z predykcją. Aplikacja powinna być przejrzysta, musi jasno przedstawiać potrzebne informacje.
+
+Do stworzenia aplikacji użyjemy języka Python, frameworka Django, oraz dodatkowych bibliotek (np. Matplotlib), a także bazy danych (prawdopodobnie MySQL).
 
 
 # Metody testowania
