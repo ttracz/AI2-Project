@@ -1,4 +1,4 @@
-![GitHub Logo](http://tymoteusztracz.pl/logosmall.jpg)
+![GitHub Logo](http://tymoteusztracz.pl/server/logosmall.jpg)
 
 # Predict Vision
 
